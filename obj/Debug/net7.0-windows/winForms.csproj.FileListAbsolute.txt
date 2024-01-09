@@ -1,0 +1,15 @@
+C:\Users\disrct\Desktop\winForms\bin\Debug\net7.0-windows\winForms.exe
+C:\Users\disrct\Desktop\winForms\bin\Debug\net7.0-windows\winForms.deps.json
+C:\Users\disrct\Desktop\winForms\bin\Debug\net7.0-windows\winForms.runtimeconfig.json
+C:\Users\disrct\Desktop\winForms\bin\Debug\net7.0-windows\winForms.dll
+C:\Users\disrct\Desktop\winForms\bin\Debug\net7.0-windows\winForms.pdb
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\winForms.csproj.AssemblyReference.cache
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\winForms.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\winForms.AssemblyInfoInputs.cache
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\winForms.AssemblyInfo.cs
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\winForms.csproj.CoreCompileInputs.cache
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\winForms.dll
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\refint\winForms.dll
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\winForms.pdb
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\winForms.genruntimeconfig.cache
+C:\Users\disrct\Desktop\winForms\obj\Debug\net7.0-windows\ref\winForms.dll
